@@ -1,1 +1,2 @@
-membuat latihan menejemn konflik di branch develop-wiyan
+latihan membuat manajemen konflik
+
